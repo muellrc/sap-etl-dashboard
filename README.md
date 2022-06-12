@@ -1,4 +1,5 @@
-# sap-pm-dashboard-odata
+# sap-etl-dashboard
+
 A sample project reading SAP PM Data (currently Equipments and Functional Locations) via OData and displaying the data in a Grafana Dashboard.
 
 ![Screenshot](https://user-images.githubusercontent.com/89973885/173239962-687ff44c-a79a-4856-8bd5-7351998c724a.png)
