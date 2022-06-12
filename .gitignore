@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Passwords and system-specific configuration
+sapconfig.py
+dbconfig.py
